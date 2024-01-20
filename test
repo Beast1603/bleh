@@ -11,6 +11,10 @@
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/904126772055003146\/991065233260969994\/Louis_George_Cafe.ttf"
     },
+  "semanticColors": { 
+    "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"]
+    },
     "simple_colors": {
         "background": 0,
         "background_secondary": 419430400,
